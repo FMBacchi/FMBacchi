@@ -1,6 +1,6 @@
 ## Bem vindo👍
 
-Meu nome é FErnanda Bacchi
+Meu nome é **Fernanda Bacchi**
 
 Estou aprendendo a programar
 
